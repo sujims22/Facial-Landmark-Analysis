@@ -4,8 +4,8 @@
 This project aims to perform facial landmark analysis and anomaly detection using facial landmark detection techniques. It calculates various facial angles and ratios, which can be useful for applications like medical diagnosis, cosmetic surgery planning, and facial anomaly detection.
 
 ## Dependencies
-OpenCV
-face_alignment
+1) OpenCV
+2) face_alignment
 
 ## Usage
 
